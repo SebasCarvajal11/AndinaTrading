@@ -26,19 +26,19 @@
 ## Imagenes
 
 ### 1. Diagrama Entidad-Relación
-![Diagrama Entidad-Relación](assets/der.png)
+![Diagrama Entidad-Relación](assets/der.PNG)
 
 ### 2. Diagrama de Clases
-![Diagrama de Clases](assets/clases.png)
+![Diagrama de Clases](assets/clases.PNG)
 
 ### 3. Pantalla de Inicio de Sesión y Registro
-![Login y Registro](assets/login.png)
+![Login y Registro](assets/login.PNG)
 
 ### 4. Panel Principal y Gráficos (Chart.js)
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard.PNG)
 
 ### 5. Perfil del Inversionista y Portafolio
-![Perfil y Portafolio](assets/perfil.png)
+![Perfil y Portafolio](assets/perfil.PNG)
 
 ---
 
